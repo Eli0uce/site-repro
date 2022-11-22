@@ -1,0 +1,53 @@
+body {
+  font-family: Roboto Slab, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto,
+    Helvetica Neue, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji,
+    Segoe UI Symbol, Noto Color Emoji;
+}
+
+header {
+  object-fit: none;
+  width: 100%;
+  height: 830px;
+  background: transparent url("./img/header-bg.jpg") no-repeat scroll 0 40% / 100% auto;
+  color: white;
+  background-repeat: no-repeat;
+}
+
+.logo {
+  margin-top: 1.5%;
+  margin-left: 16%;
+}
+
+.header-text {
+  margin-top: 14rem;
+}
+
+.btn-xl {
+  font-weight: 700;
+  font-size: 1.125rem;
+  padding: 1.25rem 2.5rem;
+  letter-spacing: px;
+}
+
+.text-navbar {
+  margin-top: 1.5%;
+  margin-right: 16%;
+}
+
+.services {
+  margin-top: 7rem;
+  margin-bottom: 100px;
+  max-width: 100%;
+}
+
+.icon-part {
+    margin-top: 4.5em;
+}
+
+.portfolio-text {
+    margin-top: 100px;
+}
+
+.prt-img {
+    margin-bottom: 100px;
+}
